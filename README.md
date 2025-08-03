@@ -46,6 +46,7 @@ The project is organized into multiple microservices, each with a specific respo
 
 ### 📍 MicroService - Gestion des Destinations (`DestinationService`)
 
+**Developed by**: Chaieb Dhia
 * **Description**: This service manages all tourist destinations available on the `EasyTrip` platform. It allows for the creation, modification, and retrieval of detailed destination information.
 * **Key Features**:
     * Add new destinations with details (name, description, location).
